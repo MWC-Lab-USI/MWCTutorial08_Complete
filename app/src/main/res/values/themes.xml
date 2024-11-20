@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.StepAppV8" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.StepAppV8.NoActionBar" parent="Theme.StepAppV8">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
